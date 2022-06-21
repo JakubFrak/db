@@ -4,61 +4,71 @@
 		"id": 1,
 		"tytul": "Produkt 1",
 		"opis": "Opis 1",
-		"zdjecie": "./images/produkt1.jpg"
+		"zdjecie": "./images/produkt1.jpg",
+		"kategoria": "inne"
 	},
 	{
 		"id": 2,
 		"tytul": "Produkt 2",
 		"opis": "Opis 2",
-		"zdjecie": "./images/produkt2.jpg"
+		"zdjecie": "./images/produkt2.jpg",
+		"kategoria": "elektronika"
 	},
 	{
 		"id": 3,
 		"tytul": "Produkt 3",
 		"opis": "Opis 3",
-		"zdjecie": "./images/produkt3.jpg"
+		"zdjecie": "./images/produkt3.jpg",
+		"kategoria": "elektronika"
 	},
 	{
 		"id": 4,
 		"tytul": "Produkt 4",
 		"opis": "Opis 4",
-		"zdjecie": "./images/produkt4.jpg"
+		"zdjecie": "./images/produkt4.jpg",
+		"kategoria": "inne"
 	},
 	{
 		"id": 5,
 		"tytul": "Produkt 5",
 		"opis": "Opis 5",
-		"zdjecie": "./images/produkt5.jpg"
+		"zdjecie": "./images/produkt5.jpg",
+		"kategoria": "elektronika"
 	},
 	{
 		"id": 6,
 		"tytul": "Produkt 6",
 		"opis": "Opis 6",
-		"zdjecie": "./images/produkt6.jpg"
+		"zdjecie": "./images/produkt6.jpg",
+		"kategoria": "komputer"
 	},
 	{
 		"id": 7,
 		"tytul": "Produkt 7",
 		"opis": "Opis 7",
-		"zdjecie": "./images/produkt7.jpg"
+		"zdjecie": "./images/produkt7.jpg",
+		"kategoria": "komputer"
 	},
 	{
 		"id": 8,
 		"tytul": "Produkt 8",
 		"opis": "Opis 8",
-		"zdjecie": "./images/produkt8.jpg"
+		"zdjecie": "./images/produkt8.jpg",
+		"kategoria": "elektronika"
 	},
 	{
 		"id": 9,
 		"tytul": "Produkt 9",
 		"opis": "Opis 9",
-		"zdjecie": "./images/produkt9.jpg"
+		"zdjecie": "./images/produkt9.jpg",
+		"kategoria": "elektronika"
 	},
 	{
 		"id": 10,
 		"tytul": "Produkt 10",
 		"opis": "Opis 10",
-		"zdjecie": "./images/produkt10.jpg"
+		"zdjecie": "./images/produkt10.jpg",
+		"kategoria": "elektronika"
 	}
 	]
 }
